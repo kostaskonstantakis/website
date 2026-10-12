@@ -40,7 +40,7 @@ window.experienceData = [
         when: "17/03/2023 - 17/03/2024",
         icon: "🛡️",
         accent: "#20914d",
-        tags: ["Frontend", "Design", "Systems", "Development"]
+        tags: ["Frontend", "Drupal", "WordPress", "CMS", "Frontend", "Backend", "PHP", "MySQL", "HTML", "CSS", "Elementor"]
     },
     {
         title: "Alpha Bank",
@@ -48,15 +48,15 @@ window.experienceData = [
         when: "06/06/2022 - 09/12/2022",
         icon: "🏦",
         accent: "#0a11d2",
-        tags: ["Web Developer", "Drupal", "CMS", "Frontend", "Backend", "PHP", "MySQL", "HTML", "CSS", "JavaScript"]
+        tags: ["Application Developer", "Middleware", "Java", "Cobol", "SQL", "Banking", "Finance", "Development"]
     },
     {
         title: "AboutNet",
         summary: "Web Developer Intern",
-        when: "13/01/2021 - 12/04/2021",
+        when: "16/01/2021 - 15/04/2021",
         icon: "🧑‍💻",
         accent: "#ffffff",
-        tags: ["Frontend", "HTML", "CSS", "JavaScript"]
+        tags: ["Frontend", "WordPress", "HTML", "CSS", "Joomla", "Web Development", "Internship"]
     }
 ];
 
@@ -96,13 +96,13 @@ window.contactData = [
 ];
 
 window.interestsData = [
-    {
+    /*{
         title: "Music",
         summary: "Listening, discovering, and enjoying different styles and sounds.",
         icon: "🎵",
         accent: "#EF6C00",
         tags: ["Listening", "Playing", "Discovery", "Culture"]
-    },
+    },*/
     {
         title: "Travelling",
         summary: "Exploring new places, meeting people, and discovering local culture.",
