@@ -60,7 +60,7 @@ window.translations = {
             { title: "OnlyNet", summary: "Web Developer", when: "08/07/2024 - Present", tags: ["Web Developer", "Drupal", "CMS", "Frontend", "Backend", "PHP", "MySQL", "HTML", "CSS", "JavaScript"] },
             { title: "Greek Army", summary: "Software Engineer", when: "17/03/2023 - 17/03/2024", tags: ["Frontend", "Design", "Systems", "Development"] },
             { title: "Alpha Bank", summary: "Application Developer", when: "06/06/2022 - 09/12/2022", tags: ["Web Developer", "Drupal", "CMS", "Frontend", "Backend", "PHP", "MySQL", "HTML", "CSS", "JavaScript"] },
-            { title: "AboutNet", summary: "Web Developer Intern", when: "13/01/2021 - 12/04/2021", tags: ["Frontend", "HTML", "CSS", "JavaScript"] }
+            { title: "AboutNet", summary: "Web Developer Intern", when: "16/01/2021 - 15/04/2021", tags: ["Frontend", "HTML", "CSS", "JavaScript"] }
         ],
         contact_people: [
             { title: "Email", summary: "kostaskonstantakis6@gmail.com", tags: ["Mail", "Communication"] },
@@ -69,7 +69,6 @@ window.translations = {
             { title: "Give me a call", summary: "+30 698 333 4780", tags: ["Call", "Telephone"] }
         ],
         interests_people: [
-            { title: "Music", summary: "Listening, discovering, and enjoying different styles and sounds.", tags: ["Listening", "Playing", "Discovery", "Culture"] },
             { title: "Travelling", summary: "Exploring new places, meeting people, and discovering local culture.", tags: ["Culture", "Abroad", "Trips"] },
             { title: "Foreign Languages", summary: "Learning and mastering different languages.", tags: ["Foreign Languages", "Communication", "Culture"] },
             { title: "Board Games", summary: "Playing strategic board games with friends and family is always fun.", tags: ["Board Games", "Strategy", "Games", "Fun"] }
@@ -135,7 +134,7 @@ window.translations = {
             { title: "OnlyNet", summary: "Προγραμματιστής Ιστού", when: "08/07/2024 - Παρόν", tags: ["Προγραμματιστής Ιστού", "Drupal", "CMS", "Frontend", "Backend", "PHP", "MySQL", "HTML", "CSS", "JavaScript"] },
             { title: "Greek Army", summary: "Μηχανικός Λογισμικού", when: "17/03/2023 - 17/03/2024", tags: ["Frontend", "Σχεδιασμός", "Συστήματα", "Ανάπτυξη"] },
             { title: "Alpha Bank", summary: "Προγραμματιστής Εφαρμογών", when: "06/06/2022 - 09/12/2022", tags: ["Προγραμματιστής Ιστού", "Drupal", "CMS", "Frontend", "Backend", "PHP", "MySQL", "HTML", "CSS", "JavaScript"] },
-            { title: "AboutNet", summary: "Ασκούμενος προγραμματιστής Ιστού", when: "13/01/2021 - 12/04/2021", tags: ["Frontend", "HTML", "CSS", "JavaScript"] }
+            { title: "AboutNet", summary: "Ασκούμενος προγραμματιστής Ιστού", when: "16/01/2021 - 15/04/2021", tags: ["Frontend", "HTML", "CSS", "JavaScript"] }
         ],
         contact_people: [
             { title: "Ηλεκτρονικό ταχυδρομείο", summary: "kostaskonstantakis6@gmail.com", tags: ["Ταχυδρομείο", "Επικοινωνία"] },
@@ -144,7 +143,6 @@ window.translations = {
             { title: "Τηλεφώνησέ μου", summary: "+30 698 333 4780", tags: ["Κλήση", "Τηλέφωνο"] }
         ],
         interests_people: [
-            { title: "Μουσική", summary: "Ακρόαση, ανακάλυψη και απόλαυση διαφορετικών ειδών και ήχων.", tags: ["Ακρόαση", "Εκτέλεση", "Ανακάλυψη", "Πολιτισμός"] },
             { title: "Ταξίδια", summary: "Εξερεύνηση νέων τόπων, γνωριμία με ανθρώπους και ανακάλυψη της τοπικής κουλτούρας.", tags: ["Πολιτισμός", "Εξωτερικό", "Εκδρομές"] },
             { title: "Ξένες γλώσσες", summary: "Εκμάθηση και κατάκτηση διαφορετικών γλωσσών.", tags: ["Ξένες γλώσσες", "Επικοινωνία", "Πολιτισμός"] },
             { title: "Επιτραπέζια παιχνίδια", summary: "Τα στρατηγικά επιτραπέζια με φίλους και οικογένεια είναι πάντα διασκεδαστικά.", tags: ["Επιτραπέζια", "Στρατηγική", "Παιχνίδια", "Διασκέδαση"] }
@@ -210,7 +208,7 @@ window.translations = {
             { title: "OnlyNet", summary: "Веб-разработчик", when: "08/07/2024 - Настоящее время", tags: ["Веб-разработчик", "Drupal", "CMS", "Frontend", "Backend", "PHP", "MySQL", "HTML", "CSS", "JavaScript"] },
             { title: "Greek Army", summary: "Инженер-программист", when: "17/03/2023 - 17/03/2024", tags: ["Frontend", "Дизайн", "Системы", "Разработка"] },
             { title: "Alpha Bank", summary: "Разработчик приложений", when: "06/06/2022 - 09/12/2022", tags: ["Веб-разработчик", "Drupal", "CMS", "Frontend", "Backend", "PHP", "MySQL", "HTML", "CSS", "JavaScript"] },
-            { title: "AboutNet", summary: "Стажёр веб-разработчика", when: "13/01/2021 - 12/04/2021", tags: ["Frontend", "HTML", "CSS", "JavaScript"] }
+            { title: "AboutNet", summary: "Стажёр веб-разработчика", when: "16/01/2021 - 15/04/2021", tags: ["Frontend", "HTML", "CSS", "JavaScript"] }
         ],
         contact_people: [
             { title: "Электронная почта", summary: "kostaskonstantakis6@gmail.com", tags: ["Почта", "Связь"] },
@@ -219,7 +217,6 @@ window.translations = {
             { title: "Позвонить мне", summary: "+30 698 333 4780", tags: ["Звонок", "Телефон"] }
         ],
         interests_people: [
-            { title: "Музыка", summary: "Слушаю, открываю для себя и наслаждаюсь разными стилями и звучанием.", tags: ["Прослушивание", "Игра", "Открытия", "Культура"] },
             { title: "Путешествия", summary: "Новые места, знакомства и местная культура.", tags: ["Культура", "За границей", "Поездки"] },
             { title: "Иностранные языки", summary: "Изучение и освоение разных языков.", tags: ["Иностранные языки", "Общение", "Культура"] },
             { title: "Настольные игры", summary: "Стратегические настольные игры с друзьями и семьёй всегда приносят удовольствие.", tags: ["Настольные игры", "Стратегия", "Игры", "Развлечения"] }

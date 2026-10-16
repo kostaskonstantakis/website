@@ -85,24 +85,9 @@ window.contactData = [
         accent: "#171515",
         tags: ["Code", "Projects"]
     },
-    /*{
-        title: "Give me a call",
-        summary: "+30 698 333 4780",
-        url: "tel:+3069833347780",
-        icon: "🌐",
-        accent: "#fefed0",
-        tags: ["Call", "Telephone"]
-    }*/
 ];
 
 window.interestsData = [
-    /*{
-        title: "Music",
-        summary: "Listening, discovering, and enjoying different styles and sounds.",
-        icon: "🎵",
-        accent: "#EF6C00",
-        tags: ["Listening", "Playing", "Discovery", "Culture"]
-    },*/
     {
         title: "Travelling",
         summary: "Exploring new places, meeting people, and discovering local culture.",
