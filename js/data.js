@@ -8,15 +8,15 @@ window.projectData = [
         tags: ["Profile", "Git", "GitHub"]
     },
     {
-        title: "Portfolio Showcase",
+        title: "Guitars Showcase",
         summary: "A polished interactive presentation built with modern frontend practices.",
         url: "https://kostaskonstantakis.github.io/guitars/",
         icon: "🎸",
         accent: "#EF6C00",
-        tags: ["Frontend", "FE", "Guitar Gallery", "UI"]
+        tags: ["Frontend", "FE", "Guitar Gallery", "UI/UX"]
     },
     {
-        title: "Portfolio Showcase",
+        title: "Guitars Showcase - Tailwind CSS",
         summary: "A polished interactive presentation built with modern frontend practices.",
         url: "https://kostaskonstantakis.github.io/guitars-tailwind/",
         icon: "🎸",
@@ -48,7 +48,7 @@ window.experienceData = [
         when: "06/06/2022 - 09/12/2022",
         icon: "🏦",
         accent: "#0a11d2",
-        tags: ["Application Developer", "Middleware", "Java", "Cobol", "SQL", "Banking", "Finance", "Development"]
+        tags: ["Application Developer", "Middleware", "Java", "Cobol", "Banking"]
     },
     {
         title: "AboutNet",

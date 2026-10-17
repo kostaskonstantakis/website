@@ -5,7 +5,7 @@ window.translations = {
         header_text: "Welcome to Kostas' Portfolio!",
         footer_text: "Kostas Konstantakis &#169; <span id=\"year\"></span>",
         signature_name: "Kostas Konstantakis",
-        synopsis: "Hello, everyone! My name is Kostas. I am a Web Developer & guitarist. Welcome to my personal portfolio website. I enjoy building modern digital experiences and sharing my work, projects, and interests. Feel free to explore what I have been up to lately. You can also connect with me through the links below.",
+        synopsis: "Hello, everyone! My name is Kostas. I am a Web developer & guitarist. Welcome to my website. I enjoy building modern digital apps. For job inquiries, please contact me.",
         navigation_label: "Main navigation menu",
         navigation: {
             experience: "Experience",
@@ -126,9 +126,9 @@ window.translations = {
         open_label: "Άνοιγμα",
         visit_label: "Επίσκεψη",
         project_people: [
-            { title: "GitHub", summary: "Το προσωπικό μου προφίλ στο GitHub και τα αποθετήρια κώδικά μου.", tags: ["Προφίλ", "Git", "GitHub"] },
-            { title: "Portfolio Showcase", summary: "Μια προσεγμένη, διαδραστική παρουσίαση με σύγχρονες πρακτικές frontend.", tags: ["Frontend", "FE", "Συλλογή κιθαρών", "UI"] },
-            { title: "Portfolio Showcase", summary: "Μια προσεγμένη, διαδραστική παρουσίαση με σύγχρονες πρακτικές frontend.", tags: ["Frontend", "FE", "Tailwind CSS", "Συλλογή κιθαρών", "UI/UX"] }
+            { title: "GitHub", summary: "Το προσωπικό μου προφίλ στο GitHub.", tags: ["Προφίλ", "Git", "GitHub"] },
+            { title: "Guitars Showcase", summary: "Μια προσεγμένη, διαδραστική παρουσίαση με σύγχρονες πρακτικές frontend.", tags: ["Frontend", "FE", "Συλλογή κιθαρών", "UI"] },
+            { title: "Guitars Showcase - Tailwind CSS", summary: "Μια προσεγμένη, διαδραστική παρουσίαση με σύγχρονες πρακτικές frontend.", tags: ["Frontend", "FE", "Tailwind CSS", "Συλλογή κιθαρών", "UI/UX"] }
         ],
         experience_people: [
             { title: "OnlyNet", summary: "Προγραμματιστής Ιστού", when: "08/07/2024 - Παρόν", tags: ["Προγραμματιστής Ιστού", "Drupal", "CMS", "Frontend", "Backend", "PHP", "MySQL", "HTML", "CSS", "JavaScript"] },
@@ -140,7 +140,7 @@ window.translations = {
             { title: "Ηλεκτρονικό ταχυδρομείο", summary: "kostaskonstantakis6@gmail.com", tags: ["Ταχυδρομείο", "Επικοινωνία"] },
             { title: "LinkedIn", summary: "Kostas Konstantakis", tags: ["Προφίλ", "Δικτύωση"] },
             { title: "GitHub", summary: "kostaskonstantakis", tags: ["Κώδικας", "Έργα"] },
-            { title: "Τηλεφώνησέ μου", summary: "+30 698 333 4780", tags: ["Κλήση", "Τηλέφωνο"] }
+            { title: "Καλέστε με", summary: "+30 698 333 4780", tags: ["Κλήση", "Τηλέφωνο"] }
         ],
         interests_people: [
             { title: "Ταξίδια", summary: "Εξερεύνηση νέων τόπων, γνωριμία με ανθρώπους και ανακάλυψη της τοπικής κουλτούρας.", tags: ["Πολιτισμός", "Εξωτερικό", "Εκδρομές"] },
@@ -153,7 +153,7 @@ window.translations = {
         header_text: "Добро пожаловать в портфолио Костаса!",
         footer_text: "Костас Константакис &#169; <span id=\"year\"></span>",
         signature_name: "Костас Константакис",
-        synopsis: "Привет всем! Меня зовут Костас. Я программист и гитарист. Добро пожаловать в моё личное портфолио. Мне нравится создавать современные цифровые решения и делиться своими проектами, идеями и интересами. Не стесняйтесь исследовать, чем я занимался недавно. Также вы можете связаться со мной через ссылки ниже.",
+        synopsis: "Привет всем! Меня зовут Костас. Я программист и гитарист. Добро пожаловать в моё веб-сайт. Мне нравится создавать современные цифровые решения. Для вопросов о работе, пожалуйста, свяжитесь с нами.",
         navigation_label: "Главное меню навигации",
         navigation: {
             experience: "Опыт",
@@ -214,7 +214,7 @@ window.translations = {
             { title: "Электронная почта", summary: "kostaskonstantakis6@gmail.com", tags: ["Почта", "Связь"] },
             { title: "LinkedIn", summary: "Kostas Konstantakis", tags: ["Профиль", "Нетворкинг"] },
             { title: "GitHub", summary: "kostaskonstantakis", tags: ["Код", "Проекты"] },
-            { title: "Позвонить мне", summary: "+30 698 333 4780", tags: ["Звонок", "Телефон"] }
+            { title: "Позвоните мне", summary: "+30 698 333 4780", tags: ["Звонок", "Телефон"] }
         ],
         interests_people: [
             { title: "Путешествия", summary: "Новые места, знакомства и местная культура.", tags: ["Культура", "За границей", "Поездки"] },
