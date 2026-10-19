@@ -19,6 +19,14 @@ body {
 	color: #9333ea;
 }
 
+.footer-link svg {
+	fill: currentColor;
+}
+
+#e-mail svg {
+	fill: currentColor;
+}
+
 @media (max-width: 1024px) {
 	body {
 		overflow-x: clip;

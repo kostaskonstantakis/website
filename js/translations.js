@@ -79,7 +79,7 @@ window.translations = {
         header_text: "Καλώς ήρθατε στο portfolio του Κώστα!",
         footer_text: "Κώστας Κωνσταντάκης &#169; <span id=\"year\"></span>",
         signature_name: "Κώστας Κωνσταντάκης",
-        synopsis: "Γεια σας! Με λένε Κώστα. Είμαι Web Developer & κιθαρίστας. Καλώς ήρθατε στο προσωπικό μου portfolio. Μου αρέσει να δημιουργώ σύγχρονες ψηφιακές εμπειρίες και να μοιράζομαι τις δουλειές, τα projects και τα ενδιαφέροντά μου. Νιώστε ελεύθεροι να εξερευνήσετε τι έχω κάνει πρόσφατα. Μπορείτε επίσης να επικοινωνήσετε μαζί μου μέσω των παρακάτω συνδέσμων.",
+        synopsis: "Γεια σας! Με λένε Κώστα. Είμαι Web Developer & κιθαρίστας. Καλώς ήρθατε στο site μου. Μου αρέσει να δημιουργώ σύγχρονες ψηφιακές εφαρμογές. Για αιτήματα εργασίας, παρακαλώ επικοινωνήστε μαζί μου.",
         navigation_label: "Κύριο μενού πλοήγησης",
         navigation: {
             experience: "Εμπειρία",
@@ -127,8 +127,8 @@ window.translations = {
         visit_label: "Επίσκεψη",
         project_people: [
             { title: "GitHub", summary: "Το προσωπικό μου προφίλ στο GitHub.", tags: ["Προφίλ", "Git", "GitHub"] },
-            { title: "Guitars Showcase", summary: "Μια προσεγμένη, διαδραστική παρουσίαση με σύγχρονες πρακτικές frontend.", tags: ["Frontend", "FE", "Συλλογή κιθαρών", "UI"] },
-            { title: "Guitars Showcase - Tailwind CSS", summary: "Μια προσεγμένη, διαδραστική παρουσίαση με σύγχρονες πρακτικές frontend.", tags: ["Frontend", "FE", "Tailwind CSS", "Συλλογή κιθαρών", "UI/UX"] }
+            { title: "Guitars Showcase", summary: "Μια διαδραστική παρουσίαση με σύγχρονες πρακτικές frontend.", tags: ["Frontend", "FE", "Συλλογή κιθαρών", "UI"] },
+            { title: "Guitars Showcase - Tailwind CSS", summary: "Μια διαδραστική παρουσίαση με σύγχρονες πρακτικές frontend.", tags: ["Frontend", "FE", "Tailwind CSS", "Συλλογή κιθαρών", "UI/UX"] }
         ],
         experience_people: [
             { title: "OnlyNet", summary: "Προγραμματιστής Ιστού", when: "08/07/2024 - Παρόν", tags: ["Προγραμματιστής Ιστού", "Drupal", "CMS", "Frontend", "Backend", "PHP", "MySQL", "HTML", "CSS", "JavaScript"] },
@@ -150,7 +150,7 @@ window.translations = {
     },
     ru: {
         page_title: "Konstantakis K. | Website",
-        header_text: "Добро пожаловать в портфолио Костаса!",
+        header_text: "Добро пожаловать в веб-сайт Костаса!",
         footer_text: "Костас Константакис &#169; <span id=\"year\"></span>",
         signature_name: "Костас Константакис",
         synopsis: "Привет всем! Меня зовут Костас. Я программист и гитарист. Добро пожаловать в моё веб-сайт. Мне нравится создавать современные цифровые решения. Для вопросов о работе, пожалуйста, свяжитесь с нами.",
