@@ -141,6 +141,13 @@ img {
 	border-radius: 9999px;
 	background: #fff;
 	font-size: 1rem;
+	color: currentColor;
+}
+
+.contact-card__icon svg {
+	width: 1.15rem;
+	height: 1.15rem;
+	display: block;
 }
 
 .contact-card__title {

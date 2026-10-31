@@ -134,7 +134,12 @@ function renderContactSection() {
         var icon = document.createElement('span');
         icon.className = 'contact-card__icon';
         icon.setAttribute('aria-hidden', 'true');
-        icon.textContent = contact.icon || '✉️';
+
+        if (contact.url && contact.url.indexOf('mailto:') === 0) {
+            icon.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3.75 6.75A2.25 2.25 0 0 1 6 4.5h12a2.25 2.25 0 0 1 2.25 2.25v10.5A2.25 2.25 0 0 1 18 19.5H6a2.25 2.25 0 0 1-2.25-2.25V6.75Zm1.5 0v.42l7.5 5.67 7.5-5.67V6.75A.75.75 0 0 0 18 6H6a.75.75 0 0 0-.75.75Zm14.25 1.96-7.12 5.38a.75.75 0 0 1-.86 0L4.5 8.71v8.04c0 .41.34.75.75.75h12.5c.41 0 .75-.34.75-.75V8.71Z" fill="currentColor"/></svg>';
+        } else {
+            icon.textContent = contact.icon || '✉️';
+        }
 
         var title = document.createElement('span');
         title.className = 'contact-card__title';

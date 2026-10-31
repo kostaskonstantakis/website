@@ -97,7 +97,7 @@ window.interestsData = [
     },
     {
         title: "Foreign Languages",
-        summary: "Learning and mastering different languages.",
+        summary: "Learning different languages.",
         icon: "🌐",
         accent: "#5D6DFF",
         tags: ["Foreign Languages", "Communication", "Culture"]
@@ -117,8 +117,16 @@ window.educationData = [
         summary: "University of Crete, Department of Computer Science, Heraklion, Crete, Greece.",
         icon: "🎓",
         accent: "#0f766e",
-        when: "09/2013 - 07/2022",
+        when: "07/2022",
         tags: ["Bachelor of Science", "Computer Science", "University of Crete", "CSD", "UoC"]
+    },
+    {
+        title: "Certificate of Proficiency in English (ECPE)",
+        summary: "University of Michigan & Hellenic American Union.",
+        icon: "🎸",
+        accent: "#28aa9f",
+        when: "12/2024",
+        tags: ["ECPE", "English", "University of Michigan", "UoM", "Hellenic American Union", "HAU"]
     },
     {
         title: "RGT Grade 5",
