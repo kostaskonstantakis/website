@@ -72,7 +72,7 @@ window.translations = {
         ],
         interests_people: [
             { title: "Travelling", summary: "Exploring new places, meeting people, and discovering local culture.", tags: ["Culture", "Abroad", "Trips"] },
-            { title: "Foreign Languages", summary: "Learning and mastering different languages.", tags: ["Foreign Languages", "Communication", "Culture"] },
+            { title: "Foreign Languages", summary: "Learning different languages.", tags: ["Foreign Languages", "Communication", "Culture"] },
             { title: "Board Games", summary: "Playing strategic board games with friends and family is always fun.", tags: ["Board Games", "Strategy", "Games", "Fun"] }
         ]
     },
@@ -148,7 +148,7 @@ window.translations = {
         ],
         interests_people: [
             { title: "Ταξίδια", summary: "Εξερεύνηση νέων τόπων, γνωριμία με ανθρώπους και ανακάλυψη της τοπικής κουλτούρας.", tags: ["Πολιτισμός", "Εξωτερικό", "Εκδρομές"] },
-            { title: "Ξένες γλώσσες", summary: "Εκμάθηση και κατάκτηση διαφορετικών γλωσσών.", tags: ["Ξένες γλώσσες", "Επικοινωνία", "Πολιτισμός"] },
+            { title: "Ξένες γλώσσες", summary: "Εκμάθηση ξένων γλωσσών.", tags: ["Ξένες γλώσσες", "Επικοινωνία", "Πολιτισμός"] },
             { title: "Επιτραπέζια παιχνίδια", summary: "Τα στρατηγικά επιτραπέζια με φίλους και οικογένεια είναι πάντα διασκεδαστικά.", tags: ["Επιτραπέζια", "Στρατηγική", "Παιχνίδια", "Διασκέδαση"] }
         ]
     },
@@ -224,7 +224,7 @@ window.translations = {
         ],
         interests_people: [
             { title: "Путешествия", summary: "Новые места, знакомства и местная культура.", tags: ["Культура", "За границей", "Поездки"] },
-            { title: "Иностранные языки", summary: "Изучение и освоение разных языков.", tags: ["Иностранные языки", "Общение", "Культура"] },
+            { title: "Иностранные языки", summary: "Изучение разных языков.", tags: ["Иностранные языки", "Общение", "Культура"] },
             { title: "Настольные игры", summary: "Стратегические настольные игры с друзьями и семьёй всегда приносят удовольствие.", tags: ["Настольные игры", "Стратегия", "Игры", "Развлечения"] }
         ]
     }

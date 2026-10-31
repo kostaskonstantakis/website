@@ -180,7 +180,17 @@ function renderInterestsSection() {
         var localizedItem = Object.assign({}, item, localizedItems[index] || {});
         var listItem = document.createElement('li');
         listItem.className = 'interests-list__item';
-        listItem.textContent = localizedItem.title || '';
+
+        var title = document.createElement('h3');
+        title.className = 'interests-list__title';
+        title.textContent = localizedItem.title || '';
+
+        var summary = document.createElement('p');
+        summary.className = 'interests-list__summary';
+        summary.textContent = localizedItem.summary || '';
+
+        listItem.appendChild(title);
+        listItem.appendChild(summary);
 
         list.appendChild(listItem);
     });

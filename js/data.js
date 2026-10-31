@@ -13,7 +13,7 @@ window.projectData = [
         url: "https://kostaskonstantakis.github.io/guitars/",
         icon: "🎸",
         accent: "#EF6C00",
-        tags: ["Frontend", "FE", "Guitar Gallery", "UI/UX"]
+        tags: ["Frontend", "HTML", "CSS", "JavaScript", "JS", "FE", "Guitar Gallery", "UI/UX"]
     },
     {
         title: "Guitars Showcase - Tailwind CSS",
@@ -21,7 +21,7 @@ window.projectData = [
         url: "https://kostaskonstantakis.github.io/guitars-tailwind/",
         icon: "🎸",
         accent: "orange",
-        tags: ["Frontend", "FE",  "Tailwind CSS", "Guitar Gallery", "UI/UX"]
+        tags: ["Frontend", "HTML", "CSS", "JavaScript", "JS", "FE", "Tailwind CSS", "Guitar Gallery", "UI/UX"]
     },
 ];
 
@@ -56,7 +56,7 @@ window.experienceData = [
         when: "16/01/2021 - 15/04/2021",
         icon: "🧑‍💻",
         accent: "#ffffff",
-        tags: ["Frontend", "WordPress", "HTML", "CSS", "Joomla", "Web Development", "Internship"]
+        tags: ["Frontend", "WordPress", "CMS", "Frontend", "HTML", "CSS", "Joomla", "Elementor", "Web Development", "Internship"]
     }
 ];
 
