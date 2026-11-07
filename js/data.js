@@ -128,11 +128,19 @@ window.educationData = [
         when: "12/2024",
         tags: ["ECPE", "English", "University of Michigan", "UoM", "Hellenic American Union", "HAU"]
     },
+    /*{
+        title: "Business English Seminar/Certificate",
+        summary: "Hellenic American Union.",
+        icon: "🎸",
+        accent: "#28aa9e",
+        when: "03/2025",
+        tags: ["Business English", "Seminar", "Hellenic American Union", "HAU", "Certificate"]
+    },*/
     {
         title: "RGT Grade 5",
         summary: "University of West London, London College of Music, United Kingdom.",
         icon: "🎸",
-        accent: "#28aa9f",
+        accent: "#28aa9a",
         when: "09/2026",
         tags: ["RGT Grade 5", "Electric Guitar", "University of West London", "LCME", "London College of Music", "UWL"]
     }
