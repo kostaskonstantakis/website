@@ -15,22 +15,6 @@ window.translations = {
             interests: "Interests"
         },
         language_label: "Select language:",
-        orientation_label: "Layout orientation:",
-        orientation_options: {
-            vertical: "Vertical",
-            horizontal: "Horizontal",
-            slideshow: "Slideshow"
-        },
-        type_label: "Type:",
-        type_options: {
-            all: "All",
-            electric: "Electric",
-            bass: "Bass",
-            acoustic: "Acoustic",
-            signature: "Signature",
-            baritone: "Baritone",
-            "7string": "7 string"
-        },
         search_placeholder: "Search projects...",
         sort_label: "Sort:",
         sort_options: {
@@ -91,22 +75,6 @@ window.translations = {
             interests: "Ενδιαφέροντα"
         },
         language_label: "Επιλογή γλώσσας:",
-        orientation_label: "Προσανατολισμός διάταξης:",
-        orientation_options: {
-            vertical: "Κατακόρυφος",
-            horizontal: "Οριζόντιος",
-            slideshow: "Slideshow"
-        },
-        type_label: "Τύπος:",
-        type_options: {
-            all: "Όλα",
-            electric: "Ηλεκτρικό",
-            bass: "Μπάσο",
-            acoustic: "Ακουστικό",
-            signature: "Signature",
-            baritone: "Μπαριτόν",
-            "7string": "7 χορδών"
-        },
         search_placeholder: "Αναζήτηση projects...",
         sort_label: "Ταξινόμηση:",
         sort_options: {
@@ -167,22 +135,6 @@ window.translations = {
             interests: "Интересы"
         },
         language_label: "Выберите язык:",
-        orientation_label: "Ориентация макета:",
-        orientation_options: {
-            vertical: "Вертикальный",
-            horizontal: "Горизонтальный",
-            slideshow: "Слайдшоу"
-        },
-        type_label: "Тип:",
-        type_options: {
-            all: "Все",
-            electric: "Электро",
-            bass: "Бас",
-            acoustic: "Акустика",
-            signature: "Сигнатура",
-            baritone: "Баритона",
-            "7string": "7 струн"
-        },
         search_placeholder: "Поиск проектов...",
         sort_label: "Сортировка:",
         sort_options: {
